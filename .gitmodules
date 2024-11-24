@@ -4,3 +4,6 @@
 [submodule "VK-Fitness"]
 	path = VK-Fitness
 	url = https://github.com/seyoonPuvi/VK-Fitness.git
+[submodule "landingpage-template"]
+	path = landingpage-template
+	url = https://github.com/seyoonPuvi/landingpage-template.git
